@@ -10,3 +10,7 @@ Deep Learning Comprehension
 > 2023-06-19-CV-Fashion-MNIST-with-Callback
 
 > 2023-06-20-CNN-1-Basics
+
+> 2023-06-20-CNN-2-filter-working
+
+> 
